@@ -1,0 +1,52 @@
+*{
+    margin: 0px;
+}
+
+.head{
+    margin: 50px auto 80px;
+    padding-left: 40px;
+}
+.head span:nth-child(1){
+  font-size: 30px;
+  font-style: italic;;
+  margin-left: 20px;
+  color: white;
+}
+.head span:nth-child(2){
+    font-size: 60px;
+    color: white;
+}
+.team{
+    background-color: #12172b;
+    width: 30.33%;
+    padding: 20px;
+    text-align: center;
+    float: left;
+    
+    
+}
+.team img{
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+    
+}
+.team h3{
+    color: white;
+    font-size: 45px;
+    
+    
+}
+.team p{
+    font-size: 25px;
+    font-family: candara;
+    color: white;
+    width: 70%;
+    margin: 0px auto;
+   
+ 
+}
+body{
+    background-color: #12172b;
+
+}

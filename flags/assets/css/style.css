@@ -1,0 +1,138 @@
+*{
+    margin: 0px;
+}
+p{
+    font-size: 50px;
+    font-family: Algerian;
+    text-align: center;
+    margin: 20px auto;
+    color: white;
+}
+.sobuj{
+    width:500px;
+    height: 280px;
+    background-color: green;
+    margin: 50px auto;
+    overflow: hidden;
+}
+.lal{
+    width: 220px;
+    height: 220px;
+    background-color: rgb(211, 12, 12);
+    border-radius: 50%;
+    margin: 23px auto;
+}
+
+.white{
+    width: 240px;
+    height: 280px;
+    background-color:white;
+    margin: 50px auto;
+    border-left: 130px solid rgb(236, 9, 9);
+    border-right: 130px solid rgb(236, 9, 9);
+   
+   
+}
+.white img {
+    width: 225px;
+    margin: 40px auto;
+}
+.india {
+    width: 500px;
+    height: 100px;
+    background-color: white;
+    margin: 50px auto;
+    border-top: 100px solid rgb(240, 161, 13);
+    border-bottom: 100px solid rgb(7, 143, 64);
+    text-align: center;
+  }
+  .india img {
+      width: 130px;
+      margin: 5px auto;
+  }
+  .red{
+      width: 500px;
+      height: 285px;
+      background-color: #de0c0c;
+      margin: 50px auto;
+      text-align: center;
+  }
+
+  .red img {
+      width: 200px;
+      margin: 58px auto;
+  }
+  .china{
+    width: 500px;
+    height: 285px;
+    background-color: #ec2924;
+    margin: 50px auto;
+    text-align: left;
+}
+
+.china img {
+    width: 200px;
+    margin: 20px 20px;
+}
+.russia{
+    width: 500px;
+    height: 100px;
+    background-color: blue;
+    border-top: 100px solid white;
+    border-bottom: 100px solid rgb(209, 14, 14);
+    margin: 50px auto;
+    outline: 1px solid black;
+}
+.chil{
+    width: 500px;
+    height: 157px;
+    background-color: white;
+    margin: 50px auto;
+    border-bottom: 105px solid rgb(219, 14, 14);
+    text-align: left;
+    outline: 1px solid black;
+}
+.chil img{
+    width: 160px;
+}
+.blue{
+    width: 500px;
+    height: 150px;
+    background-color: rgb(14, 14, 117);
+    margin: 50px auto;
+    border-top: 100px solid rgb(201, 7, 7);
+    border-bottom: 100px solid rgb(201, 7, 7);
+}
+.whi{
+    width: 130px;
+    height: 130px;
+    background-color: white;
+    border-radius: 50%;
+    margin: 10px auto 0px;
+}
+.yel{
+    width: 500px;
+    height: 120px;
+    background-color:#fde300;
+    margin: 50px auto;
+    border-top: 120px solid rgb(209, 7, 7);
+    border-bottom: 120px solid green;
+    text-align: center;
+}
+.yel img{
+    width: 187px;
+}
+.wh{
+    width: 180px;
+    height: 300px;
+    background-color: white;
+    margin: 50px auto;
+    border-left:150px solid green;
+    border-right: 150px solid rgb(146, 8, 8);
+}
+body{
+    background-color: rgb(5, 4, 4,.8);
+}
+
+
+  

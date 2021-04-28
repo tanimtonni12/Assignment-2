@@ -1,0 +1,46 @@
+*{
+    margin: 0px;
+}
+.black{
+    background-color: rgb(34, 32, 32, .9);
+    height: 300px;
+}
+.white{
+    background-image: url(../img/montu.jpg);
+    height: 735px;
+    background-size: cover;
+    background-position: center center;
+    background-attachment: fixed;
+}
+.white h2{
+    width: 900px;
+    height: 80px;
+    text-align: center;
+    font-size: 80px;
+    font-weight: normal;
+    font-family: Algerian;
+    background-color: rgba(203, 203, 206, 0.315);
+    box-shadow: 8px 0px 5px rgb(202, 198, 198);
+    margin: 5px auto 0px;
+    
+   
+}
+.line {
+    width: 900px;
+    border-top: 4px solid rgb(5, 5, 5, .8);
+    margin: 7px auto 0px;
+    box-shadow: 8px 0px 5px rgb(95, 16, 16);
+}
+.white p{
+    font-size: 25px;
+    font-family: Arial;
+    text-align: justify;
+    padding: 20px;
+    margin: 0px auto 0px;
+    width: 1000px;
+    color: #ffffff;
+   
+}
+.white p span{
+    font-weight: bolder;
+}
